@@ -178,3 +178,10 @@ body {
     transform: translateY(0);
   }
 }
+
+/* Icon Styling */
+i{
+  margin-right:8px;
+  color:#22c2c5;
+  font-size:16px;
+}
